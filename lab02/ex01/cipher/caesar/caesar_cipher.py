@@ -16,9 +16,15 @@ class CaesarCipher:
         alphabet_len = len(self.alphabet)
         text = text.upper()
         decrypted_text = []
+
         for letter in text:
-            letter_index = self.alphabet.index(letter)
-            output_index = (letter_index - key) % alphabet_len
-            output_letter = self.alphabet[output_index]
+            if letter in self.alphabet:
+                letter_index = self.alphabet.index(letter)
+                output_index = (letter_index - key) % alphabet_len
+                output_letter = self.alphabet[output_index]
+            else:
+                output_letter = letter  # Keep non-alphabet characters unchanged
+
             decrypted_text.append(output_letter)
+
         return "".join(decrypted_text)

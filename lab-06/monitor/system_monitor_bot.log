@@ -1,0 +1,77 @@
+2025-04-04 08:45:25,999 - INFO - B\u1eaft \u0111\u1ea7u giám sát h\u1ec7 th\u1ed1ng...
+2025-04-04 08:45:26,005 - INFO - \U0001f4ca System Monitor:
+- CPU: 51.2%
+- RAM: 87.2%
+2025-04-04 08:45:32,447 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:46:08,339 - INFO - B\u1eaft \u0111\u1ea7u giám sát h\u1ec7 th\u1ed1ng...
+2025-04-04 08:46:08,345 - INFO - \U0001f4ca System Monitor:
+- CPU: 74.0%
+- RAM: 91.5%
+2025-04-04 08:46:11,030 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:47:11,041 - INFO - \U0001f4ca System Monitor:
+- CPU: 54.0%
+- RAM: 91.0%
+2025-04-04 08:47:13,259 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:48:13,267 - INFO - \U0001f4ca System Monitor:
+- CPU: 55.1%
+- RAM: 85.2%
+2025-04-04 08:48:15,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:49:15,572 - INFO - \U0001f4ca System Monitor:
+- CPU: 26.2%
+- RAM: 83.3%
+2025-04-04 08:49:17,585 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:50:17,592 - INFO - \U0001f4ca System Monitor:
+- CPU: 23.6%
+- RAM: 87.2%
+2025-04-04 08:50:20,150 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 08:59:55,479 - INFO - B\u1eaft \u0111\u1ea7u giám sát h\u1ec7 th\u1ed1ng...
+2025-04-04 08:59:55,483 - INFO - \U0001f4ca System Monitor:
+- CPU: 18.6%
+- RAM: 86.2%
+2025-04-04 08:59:57,623 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:00:07,157 - INFO - B\u1eaft \u0111\u1ea7u giám sát h\u1ec7 th\u1ed1ng...
+2025-04-04 09:00:07,167 - INFO - \U0001f4ca System Monitor:
+- CPU: 40.0%
+- RAM: 88.4%
+2025-04-04 09:00:10,611 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:01:10,632 - INFO - \U0001f4ca System Monitor:
+- CPU: 59.8%
+- RAM: 88.5%
+2025-04-04 09:01:12,993 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:02:13,008 - INFO - \U0001f4ca System Monitor:
+- CPU: 46.4%
+- RAM: 88.6%
+2025-04-04 09:02:17,159 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:03:17,169 - INFO - \U0001f4ca System Monitor:
+- CPU: 38.7%
+- RAM: 84.3%
+2025-04-04 09:03:19,342 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:04:19,352 - INFO - \U0001f4ca System Monitor:
+- CPU: 38.6%
+- RAM: 88.0%
+2025-04-04 09:04:23,848 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:05:23,869 - INFO - \U0001f4ca System Monitor:
+- CPU: 28.3%
+- RAM: 87.0%
+2025-04-04 09:05:25,872 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:06:25,884 - INFO - \U0001f4ca System Monitor:
+- CPU: 25.2%
+- RAM: 86.0%
+2025-04-04 09:06:27,919 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:07:27,933 - INFO - \U0001f4ca System Monitor:
+- CPU: 18.0%
+- RAM: 86.4%
+2025-04-04 09:07:31,232 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:08:31,244 - INFO - \U0001f4ca System Monitor:
+- CPU: 40.8%
+- RAM: 85.5%
+2025-04-04 09:08:33,380 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:09:33,388 - INFO - \U0001f4ca System Monitor:
+- CPU: 40.0%
+- RAM: 87.0%
+2025-04-04 09:09:35,432 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
+2025-04-04 09:18:57,998 - INFO - B\u1eaft \u0111\u1ea7u giám sát h\u1ec7 th\u1ed1ng...
+2025-04-04 09:18:58,002 - INFO - \U0001f4ca System Monitor:
+- CPU: 22.0%
+- RAM: 86.2%
+2025-04-04 09:19:00,362 - INFO - HTTP Request: POST https://api.telegram.org/bot7567415251:AAESDbbEXkGv-ezSEDpgKgYHh7ta9p-rgBQ/sendMessage "HTTP/1.1 200 OK"
